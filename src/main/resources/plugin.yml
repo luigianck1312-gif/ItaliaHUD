@@ -1,7 +1,0 @@
-name: ItaliaHUD
-version: 1.0.0
-main: it.italiahud.ItaliaHUD
-api-version: 1.21
-description: Scoreboard HUD per SteelThrone
-authors: [ItaliaHUD]
-depend: [Vault, LuckPerms, ItaliaFactions]
